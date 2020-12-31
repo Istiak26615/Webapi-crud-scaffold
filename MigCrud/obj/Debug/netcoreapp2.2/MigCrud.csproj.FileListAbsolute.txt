@@ -1,0 +1,11 @@
+C:\Users\Shishir\source\repos\WebApi\MigCrud\bin\Debug\netcoreapp2.2\MigCrud.deps.json
+C:\Users\Shishir\source\repos\WebApi\MigCrud\bin\Debug\netcoreapp2.2\MigCrud.runtimeconfig.json
+C:\Users\Shishir\source\repos\WebApi\MigCrud\bin\Debug\netcoreapp2.2\MigCrud.runtimeconfig.dev.json
+C:\Users\Shishir\source\repos\WebApi\MigCrud\bin\Debug\netcoreapp2.2\MigCrud.dll
+C:\Users\Shishir\source\repos\WebApi\MigCrud\obj\Debug\netcoreapp2.2\MigCrud.csprojAssemblyReference.cache
+C:\Users\Shishir\source\repos\WebApi\MigCrud\obj\Debug\netcoreapp2.2\MigCrud.csproj.CoreCompileInputs.cache
+C:\Users\Shishir\source\repos\WebApi\MigCrud\obj\Debug\netcoreapp2.2\MigCrud.RazorAssemblyInfo.cache
+C:\Users\Shishir\source\repos\WebApi\MigCrud\obj\Debug\netcoreapp2.2\MigCrud.RazorAssemblyInfo.cs
+C:\Users\Shishir\source\repos\WebApi\MigCrud\obj\Debug\netcoreapp2.2\MigCrud.AssemblyInfoInputs.cache
+C:\Users\Shishir\source\repos\WebApi\MigCrud\obj\Debug\netcoreapp2.2\MigCrud.AssemblyInfo.cs
+C:\Users\Shishir\source\repos\WebApi\MigCrud\obj\Debug\netcoreapp2.2\MigCrud.RazorTargetAssemblyInfo.cache
